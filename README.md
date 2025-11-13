@@ -1,3 +1,3 @@
 # bodyobservability.github.io
 Organization landing page
-http://bodyobservability.com
+http://bodyobservability.github.io
